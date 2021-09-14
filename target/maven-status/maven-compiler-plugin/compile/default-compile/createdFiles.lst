@@ -1,0 +1,4 @@
+br\edu\infnet\ventura\entites\Product.class
+br\edu\infnet\ventura\entites\User.class
+br\edu\infnet\ventura\entites\Category.class
+br\edu\infnet\ventura\helper\FactoryProvider.class
